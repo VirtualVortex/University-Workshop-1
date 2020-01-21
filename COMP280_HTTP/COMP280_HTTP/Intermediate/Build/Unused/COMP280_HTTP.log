@@ -1,0 +1,5 @@
+﻿  Creating makefile for COMP280_HTTPEditor (no existing makefile)
+  Parsing headers for COMP280_HTTPEditor
+    Running UnrealHeaderTool "C:\Users\mo214885\Documents\COMP280_HTTP\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\COMP280_HTTP\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+C:/Users/mo214885/Documents/COMP280_HTTP/COMP280_HTTP/Source/COMP280_HTTP/HTTP_Request.h(91): error : Unrecognized type 'FReturnResponse' - type must be a UCLASS, USTRUCT or UENUM
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.22\Engine\Build\BatchFiles\Build.bat" COMP280_HTTPEditor Win64 Development -Project="C:\Users\mo214885\Documents\COMP280_HTTP\COMP280_HTTP\COMP280_HTTP.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.

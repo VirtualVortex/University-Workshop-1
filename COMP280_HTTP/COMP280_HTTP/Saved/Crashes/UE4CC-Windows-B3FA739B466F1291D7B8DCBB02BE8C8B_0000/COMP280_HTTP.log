@@ -1,0 +1,1391 @@
+﻿Log file open, 10/30/19 10:29:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: COMP280_HTTP
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.327791
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 750 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.30-10.29.55:292][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.30-10.29.55:292][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.30-10.29.55:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Engine.ini]
+[2019.10.30-10.29.55:292][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.30-10.29.55:292][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.30-10.29.55:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Engine.ini]
+[2019.10.30-10.29.55:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Engine.ini]
+[2019.10.30-10.29.55:292][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.30-10.29.55:292][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Engine.ini]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.30-10.29.55:293][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Engine.ini]
+[2019.10.30-10.29.55:293][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Engine.ini]
+[2019.10.30-10.29.55:297][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.30-10.29.55:297][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.30-10.29.55:298][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.30-10.29.55:298][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-10.29.55:298][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.30-10.29.55:314][  0]LogHAL: Display: Platform has ~ 16 GB [17115729920 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.30-10.29.55:314][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.30-10.29.55:314][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.30-10.29.55:314][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.30-10.29.55:315][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.30-10.29.55:316][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.30-10.29.55:317][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.30-10.29.55:317][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.30-10.29.55:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Config/Windows/Engine.ini]
+[2019.10.30-10.29.55:317][  0]LogInit: Computer: 052TGADS-59595
+[2019.10.30-10.29.55:317][  0]LogInit: User: mo214885
+[2019.10.30-10.29.55:317][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.30-10.29.55:317][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.30-10.29.55:317][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.30-10.29.55:317][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.30-10.29.55:317][  0]LogMemory: Process Physical Memory: 96.05 MB used, 96.05 MB peak
+[2019.10.30-10.29.55:317][  0]LogMemory: Process Virtual Memory: 90.61 MB used, 90.61 MB peak
+[2019.10.30-10.29.55:317][  0]LogMemory: Physical Memory: 7724.35 MB used,  8598.48 MB free, 16322.83 MB total
+[2019.10.30-10.29.55:317][  0]LogMemory: Virtual Memory: 4659.38 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.30-10.29.55:339][  0]LogInit: Using OS detected language (en-US).
+[2019.10.30-10.29.55:339][  0]LogInit: Using OS detected locale (en-GB).
+[2019.10.30-10.29.55:340][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.30-10.29.55:524][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.30-10.29.55:579][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.30-10.29.55:579][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.30-10.29.55:765][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.30-10.29.55:765][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.30-10.29.55:810][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2019.10.30-10.29.55:810][  0]LogD3D11RHI:       2017/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.30-10.29.55:812][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.30-10.29.55:812][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.30-10.29.55:812][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.30-10.29.55:818][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.30-10.29.55:818][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.30-10.29.55:818][  0]LogWindows: EnumDisplayDevices:
+[2019.10.30-10.29.55:819][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2019.10.30-10.29.55:819][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2019.10.30-10.29.55:819][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2019.10.30-10.29.55:819][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.10.30-10.29.55:819][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2019.10.30-10.29.55:819][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.10.30-10.29.55:819][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.10.30-10.29.55:819][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2019.10.30-10.29.55:854][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.30-10.29.55:858][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.30-10.29.55:859][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.30-10.29.55:859][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.30-10.29.55:866][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.30-10.29.56:260][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.30-10.29.56:273][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.30-10.29.56:286][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.30-10.29.56:306][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.30-10.29.56:328][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.30-10.29.56:350][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.30-10.29.56:370][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.30-10.29.56:383][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.30-10.29.56:389][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.30-10.29.56:493][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.30-10.29.56:496][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.30-10.29.56:551][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.30-10.29.56:551][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.30-10.29.56:579][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.30-10.29.56:579][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.30-10.29.56:596][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.30-10.29.56:611][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.30-10.29.56:624][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.30-10.29.56:636][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.30-10.29.56:679][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.30-10.29.56:679][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.30-10.29.56:679][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.30-10.29.56:688][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.30-10.29.56:738][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Intermediate/Shaders/WorkingDirectory/5572/).
+[2019.10.30-10.29.56:739][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mo214885/AppData/Local/Temp/UnrealShaderWorkingDir/D001F2F94A5171BF0CF76187592DF036/'.
+[2019.10.30-10.29.56:753][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.10.30-10.29.57:328][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.30-10.29.57:380][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/mo214885/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.30-10.29.57:380][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mo214885/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.30-10.29.57:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.30-10.29.57:380][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.30-10.29.57:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-10.29.57:380][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.30-10.29.57:392][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.30-10.29.57:392][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-10.29.57:392][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.30-10.29.57:404][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mo214885/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.30-10.29.57:404][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.30-10.29.57:404][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.30-10.29.57:434][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.30-10.29.57:435][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.30-10.29.57:436][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.30-10.29.57:519][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2019.10.30-10.29.57:860][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-10.29.58:004][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.30-10.29.58:004][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.30-10.29.58:004][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.30-10.29.58:004][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.30-10.29.58:004][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.30-10.29.58:014][  0]LogNetVersion: COMP280_HTTP 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3091020195)
+[2019.10.30-10.29.58:388][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040096 seconds
+[2019.10.30-10.29.58:394][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.30-10.29.58:394][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.30-10.29.58:394][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.30-10.29.59:169][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.30-10.29.59:184][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.30-10.29.59:300][  0]SourceControl: Source control is disabled
+[2019.10.30-10.29.59:300][  0]SourceControl: Source control is disabled
+[2019.10.30-10.29.59:301][  0]SourceControl: Source control is disabled
+[2019.10.30-10.29.59:302][  0]SourceControl: Source control is disabled
+[2019.10.30-10.29.59:383][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.30-10.29.59:441][  0]LogOcInput: OculusInput pre-init called
+[2019.10.30-10.30.00:067][  0]LogClass: Warning: FRequest_ScoreDetails::score is not initialized properly
+[2019.10.30-10.30.00:067][  0]LogClass: Display: 1 Uninitialized script stuct members found
+[2019.10.30-10.30.00:067][  0]LogAutomationTest: Warning: FRequest_ScoreDetails::score is not initialized properly
+[2019.10.30-10.30.00:068][  0]LogEngine: Initializing Engine...
+[2019.10.30-10.30.00:068][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.30-10.30.00:070][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.30-10.30.00:257][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.30-10.30.00:271][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.30-10.30.00:290][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.30.00:485][  0]LogInit: FAudioDevice initialized.
+[2019.10.30-10.30.00:485][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.30-10.30.01:444][  0]LogDerivedDataCache: Saved boot cache 0.96s 71MB C:/Users/mo214885/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.30-10.30.01:455][  0]LogInit: Texture streaming: Enabled
+[2019.10.30-10.30.01:473][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.30-10.30.01:632][  0]LogLauncherPlatform: Warning: FPlatformProcess::LaunchURL had an error: Failed launching URL
+[2019.10.30-10.30.01:633][  0]LogInit: Transaction tracking system initialized
+[2019.10.30-10.30.01:658][  0]BlueprintLog: New page: Editor Load
+[2019.10.30-10.30.01:738][  0]LocalizationService: Localization service is disabled
+[2019.10.30-10.30.02:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/' took 0.02s
+[2019.10.30-10.30.02:046][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.30-10.30.02:046][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.30-10.30.02:238][  0]SourceControl: Source control is disabled
+[2019.10.30-10.30.02:238][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.30-10.30.02:239][  0]LightingResults: New page: Lighting Build
+[2019.10.30-10.30.02:243][  0]MapCheck: New page: Map Check
+[2019.10.30-10.30.02:243][  0]LightingResults: New page: Lighting Build
+[2019.10.30-10.30.02:268][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.30-10.30.02:460][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-10.30.02:466][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.30-10.30.02:490][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.30-10.30.02:490][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.30-10.30.02:490][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2019.10.30-10.30.02:490][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.252
+[2019.10.30-10.30.02:662][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.30.02:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.30.02:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.30.02:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.30.02:693][  0]LogCollectionManager: Loaded 0 collections in 0.002013 seconds
+[2019.10.30-10.30.02:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Collections/' took 0.01s
+[2019.10.30-10.30.02:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/Developers/mo214885/Collections/' took 0.00s
+[2019.10.30-10.30.02:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/Collections/' took 0.00s
+[2019.10.30-10.30.02:708][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.30-10.30.02:716][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2736 classes and 661 folders.
+[2019.10.30-10.30.02:722][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.30-10.30.02:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.02:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-10.30.03:000][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.10.30-10.30.03:007][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.10.30-10.30.03:029][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.30-10.30.03:032][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.30-10.30.03:047][  0]LogSlate: Took 0.007890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.30-10.30.03:146][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.30-10.30.03:228][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-10.30.03:402][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.10.30-10.30.03:402][  0]LogLoad: (Engine Initialization) Total time: 9.96 seconds
+[2019.10.30-10.30.03:402][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.30-10.30.03:452][  0]LogAssetRegistry: Asset discovery search completed in 5.9563 seconds
+[2019.10.30-10.30.03:456][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.30-10.30.03:456][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2019.10.30-10.30.03:458][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.30-10.30.08:025][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.30.08:178][518]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-10.30.08:191][518]LogAssetEditorManager: Opening Asset editor for Class /Script/COMP280_HTTP.HttpRequest
+[2019.10.30-10.30.34:687][  5]LogAssetEditorManager: Opening Asset editor for Class /Script/COMP280_HTTP.HTTP_Request
+[2019.10.30-10.30.35:090][  5]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Source/COMP280_HTTP/HTTP_Request.h'
+[2019.10.30-10.30.35:092][  5]LogVSAccessor: Warning: Couldn't open file 'C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Source/COMP280_HTTP/HTTP_Request.cpp'.
+[2019.10.30-10.31.25:400][277]LogAssetEditorManager: Opening Asset editor for Class /Script/COMP280_HTTP.HTTP_Request
+[2019.10.30-10.36.33:614][878]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" -game -rocket -progress
+[2019.10.30-10.36.34:224][878]Discovering modules, targets and source code for project...
+[2019.10.30-10.36.53:505][878]Binding IntelliSense data...
+[2019.10.30-10.36.59:469][878]Binding IntelliSense data... 100%
+[2019.10.30-10.36.59:469][878]Writing project files...
+[2019.10.30-10.37.03:105][878]Writing project files... 100%
+[2019.10.30-10.40.09:527][629]Candidate modules for hot reload:
+[2019.10.30-10.40.09:527][629]  COMP280_HTTP
+[2019.10.30-10.40.09:527][629]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,9108 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-10.40.09:690][629]Warning: Starting HotReload took  6.6s.
+[2019.10.30-10.40.44:050][309]CompilerResultsLog: New page: Compilation - 30 Oct 2019 10:40:44
+[2019.10.30-10.40.44:051][309]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (no existing makefile)
+[2019.10.30-10.40.44:051][309]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-10.40.44:051][309]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-10.40.44:051][309]CompilerResultsLog: Error: C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Source/COMP280_HTTP/HttpRequest.h(65)  : Error: struct: 'Request_ScoreDetails' conflicts with another type of the same name defined at C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Source\COMP280_HTTP\HTTP_Request.h(14)
+[2019.10.30-10.40.44:051][309]LogMainFrame: MainFrame: Module compiling took 34.530 seconds
+[2019.10.30-10.40.44:052][309]Warning: HotReload failed, recompile failed
+[2019.10.30-10.41.02:702][283]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-10.41.02:706][283]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-10.41.03:408][361]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.350 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.30-10.42.00:806][581]Candidate modules for hot reload:
+[2019.10.30-10.42.00:806][581]  COMP280_HTTP
+[2019.10.30-10.42.00:806][581]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,3388 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-10.42.00:811][581]Warning: Starting HotReload took  0.0s.
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: New page: Compilation - 30 Oct 2019 10:44:29
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (no existing makefile)
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-10.44.29:909][513]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: Reflection code generated for COMP280_HTTPEditor in 6.9695401 seconds
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: Error: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Source\COMP280_HTTP\HttpRequest.cpp(1) : error: Expected HttpRequest.h to be first header included.
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: Distributing 7 actions to XGE
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.10.30-10.44.29:909][513]CompilerResultsLog: License is invalid:
+[2019.10.30-10.44.29:910][513]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.10.30-10.44.29:910][513]CompilerResultsLog:     This build will run in standalone mode.
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: 
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: HttpRequest.cpp (0:56.25 at +0:00)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: HTTP_Request.cpp (1:04.75 at +0:56)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: COMP280_HTTP.init.gen.cpp (0:03.15 at +2:01)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: HTTP_Request.gen.cpp (0:09.18 at +2:04)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: UE4Editor-COMP280_HTTP-3388.dll (0:03.39 at +2:13)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-3388.suppressed.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-3388.suppressed.exp
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::GetRequest(class FString)" (?GetRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnGetScoresButtonPress(void)" (?OnGetScoresButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::PostRequest(class FString,class FString)" (?PostRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@0@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::Send(class TSharedRef<class IHttpRequest,0> &)" (?Send@AHTTP_Request@@AEAAXAEAV?$TSharedRef@VIHttpRequest@@$0A@@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: bool __cdecl AHTTP_Request::ResponseIsValid(class TSharedPtr<class IHttpResponse,1>,bool)" (?ResponseIsValid@AHTTP_Request@@AEAA_NV?$TSharedPtr@VIHttpResponse@@$00@@_N@Z) referenced in function "public: void __cdecl AHTTP_Request::GetScores_Response(class TSharedPtr<class IHttpRequest,0>,class TSharedPtr<class IHttpResponse,1>,bool)" (?GetScores_Response@AHTTP_Request@@QEAAXV?$TSharedPtr@VIHttpRequest@@$0A@@@V?$TSharedPtr@VIHttpResponse@@$00@@_N@Z)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::GetJsonStringFromStruct<struct FRequest_ScoreDetails>(struct FRequest_ScoreDetails,class FString &)" (??$GetJsonStringFromStruct@UFRequest_ScoreDetails@@@AHTTP_Request@@AEAAXUFRequest_ScoreDetails@@AEAVFString@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: Error: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Binaries\Win64\UE4Editor-COMP280_HTTP-3388.dll : fatal error LNK1120: 5 unresolved externals
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: 
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: Error executing C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64\link.exe (tool returned code: 1120)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: UE4Editor-COMP280_HTTP-3388.lib (0:00.31 at +2:17)
+[2019.10.30-10.44.29:910][513]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-3388.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-3388.exp
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: 
+[2019.10.30-10.44.29:910][513]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: 
+[2019.10.30-10.44.29:910][513]CompilerResultsLog: 1 build system warning(s):
+[2019.10.30-10.44.29:911][513]CompilerResultsLog:    - License is invalid
+[2019.10.30-10.44.29:911][513]CompilerResultsLog: 
+[2019.10.30-10.44.29:911][513]LogMainFrame: MainFrame: Module compiling took 149.109 seconds
+[2019.10.30-10.44.29:911][513]Warning: HotReload failed, recompile failed
+[2019.10.30-10.47.44:265][334]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/DatabaseAppUI.DatabaseAppUI
+[2019.10.30-10.47.45:072][334]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.10.30-10.47.46:019][334]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.10.30-10.47.46:543][334]LogSlate: Took 0.034927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.30-10.47.48:623][556]LogSlate: Window 'DatabaseAppUI' being destroyed
+[2019.10.30-10.47.52:061][967]LogUObjectGlobals: Warning: Failed to find object 'Object /Script/COMP280_HTTP.COMP280_HTTPGameMode'
+[2019.10.30-10.47.53:823][167]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2019.10.30-10.47.54:333][168]LogSlate: Took 0.030548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.30-10.48.26:491][914]LogEditor: Attempting to add actor of class 'HTTP_Request' to level at -30.00,80.00,30.00
+[2019.10.30-10.48.26:774][945]LogEditor: Attempting to add actor of class 'HTTP_Request' to level at -250.00,100.00,40.00
+[2019.10.30-10.48.30:239][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-10.48.35:279][942]LogSlate: Took 0.052792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.30-10.48.41:580][399]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.10.30-10.48.45:868][881]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.10.30-10.48.45:877][881]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.10.30-10.49.19:427][745]BlueprintLog: New page: Compile DatabaseAppUI
+[2019.10.30-10.49.19:517][745]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2019.10.30-10.49.24:420][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-10.49.24:444][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.49.24:445][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.49.24:445][298]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 10:49:24)
+[2019.10.30-10.49.24:460][298]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-10.49.24:465][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004303s)
+[2019.10.30-10.49.24:465][298]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-10.49.24:466][298]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2019.10.30-10.49.24:466][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005598s)
+[2019.10.30-10.49.24:502][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.10.30-10.49.24:511][298]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.49.24:542][298]LogInit: FAudioDevice initialized.
+[2019.10.30-10.49.24:583][298]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-10.49.24:585][298]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-10.49.24
+[2019.10.30-10.49.24:586][298]LogWorld: Bringing up level for play took: 0.001548
+[2019.10.30-10.49.24:619][298]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.30-10.49.24:630][298]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.30-10.49.24:630][298]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.10.30-10.49.24:641][298]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.736
+[2019.10.30-10.49.24:642][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.49.27:318][546]LogHttp: Warning: 0000028289A3F9C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-10.49.27:318][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2019.10.30-10.49.27:318][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.10.30-10.49.27:318][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 2 (  Trying ::1...)
+[2019.10.30-10.49.27:319][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.10.30-10.49.27:319][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 4 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-10.49.27:319][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 5 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-10.49.27:319][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 6 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-10.49.27:319][546]LogHttp: Warning: 0000028289A3F9C0: libcurl info message cache 7 (Closing connection 10)
+[2019.10.30-10.49.51:406][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.49.51:407][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.49.51:434][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-10.49.51:434][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.49.51:486][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.49.51:552][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.10.30-10.49.51:566][236]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.30-10.50.19:366][662]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.10.30-10.50.19:571][662]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Minimal_Default_Auto1DE8609FC4633CCF96ECA0784BD57CC6F.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.10.30-10.50.19:579][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.354
+[2019.10.30-10.50.19:579][662]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.354
+[2019.10.30-10.50.19:581][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DatabaseAppUI] ([1] browsable assets)...
+[2019.10.30-10.50.19:581][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/DatabaseAppUI]
+[2019.10.30-10.50.19:612][662]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/DatabaseAppUI_Auto18C4C40414C97165FD552BFAF71734E2C.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Autosaves/Game/DatabaseAppUI_Auto1.uasset'
+[2019.10.30-10.50.19:614][662]LogFileHelpers: Auto-saving content packages took 0.033
+[2019.10.30-10.50.26:314][812]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-10.50.26:329][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.50.26:329][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.50.26:329][812]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 10:50:26)
+[2019.10.30-10.50.26:330][812]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-10.50.26:333][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2019.10.30-10.50.26:333][812]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-10.50.26:334][812]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2019.10.30-10.50.26:334][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003936s)
+[2019.10.30-10.50.26:365][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.30-10.50.26:371][812]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.50.26:399][812]LogInit: FAudioDevice initialized.
+[2019.10.30-10.50.26:431][812]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-10.50.26:433][812]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-10.50.26
+[2019.10.30-10.50.26:433][812]LogWorld: Bringing up level for play took: 0.000752
+[2019.10.30-10.50.26:447][812]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.07
+[2019.10.30-10.50.26:447][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 3 (  Trying ::1...)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 5 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 6 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 7 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-10.50.28:749][ 85]LogHttp: Warning: 0000028284A54B80: libcurl info message cache 8 (Closing connection 11)
+[2019.10.30-10.50.56:646][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.50.56:646][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.50.56:687][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-10.50.56:688][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.50.56:732][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.50.56:738][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.30-10.50.56:751][443]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.30-10.51.21:873][579]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-10.51.21:892][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.51.21:892][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.51.21:892][579]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 10:51:21)
+[2019.10.30-10.51.21:892][579]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-10.51.21:895][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003184s)
+[2019.10.30-10.51.21:896][579]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-10.51.21:896][579]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2019.10.30-10.51.21:896][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004549s)
+[2019.10.30-10.51.21:927][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.30-10.51.21:932][579]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.51.21:958][579]LogInit: FAudioDevice initialized.
+[2019.10.30-10.51.21:985][579]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-10.51.21:986][579]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-10.51.21
+[2019.10.30-10.51.21:986][579]LogWorld: Bringing up level for play took: 0.000693
+[2019.10.30-10.51.22:000][579]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.621
+[2019.10.30-10.51.22:001][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 0 (Hostname localhost was found in DNS cache)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 3 (  Trying ::1...)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 5 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 6 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 7 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-10.51.24:255][842]LogHttp: Warning: 00000282F549EFC0: libcurl info message cache 8 (Closing connection 13)
+[2019.10.30-10.51.34:722][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.51.34:722][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.51.34:751][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-10.51.34:752][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.51.34:790][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.51.34:794][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.30-10.51.34:822][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.30-10.52.26:834][ 52]BlueprintLog: New page: Compile DatabaseAppUI
+[2019.10.30-10.52.26:875][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.10.30-10.52.27:865][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DatabaseAppUI" FILE="../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/DatabaseAppUI.uasset" SILENT=true
+[2019.10.30-10.52.27:914][164]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/DatabaseAppUI2B540969414897E09509948DC9EEAF97.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/DatabaseAppUI.uasset'
+[2019.10.30-10.52.29:387][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.30-10.52.29:582][328]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Minimal_Default223B65474CC36C299C343B8BC07FDEF6.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.30-10.52.29:684][328]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Minimal_Default_BuiltDataE86C46D540185082A2602AA2D2E8C9C0.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.30-10.52.31:145][471]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-10.52.31:171][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.52.31:171][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.52.31:171][471]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 10:52:31)
+[2019.10.30-10.52.31:171][471]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-10.52.31:175][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003569s)
+[2019.10.30-10.52.31:175][471]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-10.52.31:176][471]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2019.10.30-10.52.31:176][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004567s)
+[2019.10.30-10.52.31:220][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.10.30-10.52.31:227][471]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.52.31:259][471]LogInit: FAudioDevice initialized.
+[2019.10.30-10.52.31:289][471]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-10.52.31:290][471]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-10.52.31
+[2019.10.30-10.52.31:290][471]LogWorld: Bringing up level for play took: 0.000700
+[2019.10.30-10.52.31:304][471]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.079
+[2019.10.30-10.52.31:304][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 3 (  Trying ::1...)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 5 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 6 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 7 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-10.52.33:336][710]LogHttp: Warning: 00000282F93760C0: libcurl info message cache 8 (Closing connection 14)
+[2019.10.30-10.52.37:146][163]LogHttp: Warning: 00000282F422DE40: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-10.52.37:146][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 0 (Hostname localhost was found in DNS cache)
+[2019.10.30-10.52.37:146][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.30-10.52.37:147][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.30-10.52.37:147][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 3 (  Trying ::1...)
+[2019.10.30-10.52.37:147][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-10.52.37:147][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 5 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-10.52.37:147][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 6 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-10.52.37:147][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 7 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-10.52.37:147][163]LogHttp: Warning: 00000282F422DE40: libcurl info message cache 8 (Closing connection 15)
+[2019.10.30-10.52.38:918][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.52.38:918][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.52.38:945][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-10.52.38:945][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.52.38:984][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.52.38:990][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.10.30-10.52.39:022][377]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.30-10.53.48:224][531]BlueprintLog: New page: Compile DatabaseAppUI
+[2019.10.30-10.53.48:271][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.10.30-10.53.49:627][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DatabaseAppUI" FILE="../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/DatabaseAppUI.uasset" SILENT=true
+[2019.10.30-10.53.49:656][689]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/DatabaseAppUIB9E747A347A92B515ECC3EA3E77460E1.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/DatabaseAppUI.uasset'
+[2019.10.30-10.56.15:794][149]Candidate modules for hot reload:
+[2019.10.30-10.56.15:794][149]  COMP280_HTTP
+[2019.10.30-10.56.15:795][149]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,672 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-10.56.15:798][149]Warning: Starting HotReload took  0.0s.
+[2019.10.30-10.56.26:416][384]CompilerResultsLog: New page: Compilation - 30 Oct 2019 10:56:26
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-10.56.26:417][384]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Reflection code generated for COMP280_HTTPEditor in 7.5758701 seconds
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Distributing 3 actions to XGE
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: License is invalid:
+[2019.10.30-10.56.26:417][384]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.10.30-10.56.26:417][384]CompilerResultsLog:     This build will run in standalone mode.
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: 
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: UE4Editor-COMP280_HTTP-0672.dll (0:00.92 at +0:00)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-0672.suppressed.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-0672.suppressed.exp
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::GetRequest(class FString)" (?GetRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnGetScoresButtonPress(void)" (?OnGetScoresButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::PostRequest(class FString,class FString)" (?PostRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@0@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::Send(class TSharedRef<class IHttpRequest,0> &)" (?Send@AHTTP_Request@@AEAAXAEAV?$TSharedRef@VIHttpRequest@@$0A@@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: bool __cdecl AHTTP_Request::ResponseIsValid(class TSharedPtr<class IHttpResponse,1>,bool)" (?ResponseIsValid@AHTTP_Request@@AEAA_NV?$TSharedPtr@VIHttpResponse@@$00@@_N@Z) referenced in function "public: void __cdecl AHTTP_Request::GetScores_Response(class TSharedPtr<class IHttpRequest,0>,class TSharedPtr<class IHttpResponse,1>,bool)" (?GetScores_Response@AHTTP_Request@@QEAAXV?$TSharedPtr@VIHttpRequest@@$0A@@@V?$TSharedPtr@VIHttpResponse@@$00@@_N@Z)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::GetJsonStringFromStruct<struct FRequest_ScoreDetails>(struct FRequest_ScoreDetails,class FString &)" (??$GetJsonStringFromStruct@UFRequest_ScoreDetails@@@AHTTP_Request@@AEAAXUFRequest_ScoreDetails@@AEAVFString@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Error: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Binaries\Win64\UE4Editor-COMP280_HTTP-0672.dll : fatal error LNK1120: 5 unresolved externals
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: 
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: Error executing C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64\link.exe (tool returned code: 1120)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: UE4Editor-COMP280_HTTP-0672.lib (0:00.35 at +0:00)
+[2019.10.30-10.56.26:417][384]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-0672.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-0672.exp
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: 
+[2019.10.30-10.56.26:417][384]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: 
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: 1 build system warning(s):
+[2019.10.30-10.56.26:417][384]CompilerResultsLog:    - License is invalid
+[2019.10.30-10.56.26:417][384]CompilerResultsLog: 
+[2019.10.30-10.56.26:417][384]LogMainFrame: MainFrame: Module compiling took 10.627 seconds
+[2019.10.30-10.56.26:418][384]Warning: HotReload failed, recompile failed
+[2019.10.30-10.56.59:701][451]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-10.56.59:744][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.56.59:744][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-10.56.59:744][451]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 10:56:59)
+[2019.10.30-10.56.59:745][451]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-10.56.59:749][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003980s)
+[2019.10.30-10.56.59:749][451]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-10.56.59:749][451]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.10.30-10.56.59:749][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004876s)
+[2019.10.30-10.56.59:786][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.10.30-10.56.59:791][451]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-10.56.59:819][451]LogInit: FAudioDevice initialized.
+[2019.10.30-10.56.59:848][451]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-10.56.59:849][451]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-10.56.59
+[2019.10.30-10.56.59:849][451]LogWorld: Bringing up level for play took: 0.000818
+[2019.10.30-10.56.59:863][451]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.472
+[2019.10.30-10.56.59:863][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 2 (  Trying ::1...)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 4 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 5 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 6 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-10.57.02:498][728]LogHttp: Warning: 00000282FD46F9C0: libcurl info message cache 7 (Closing connection 17)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 0 (Hostname localhost was found in DNS cache)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 3 (  Trying ::1...)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 5 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 6 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 7 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-10.57.05:600][100]LogHttp: Warning: 00000282FD2A7EC0: libcurl info message cache 8 (Closing connection 18)
+[2019.10.30-10.57.07:463][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.57.07:463][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.57.07:493][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-10.57.07:494][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-10.57.07:536][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-10.57.07:540][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.30-10.57.07:561][325]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.30-11.02.56:866][458]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.30-11.02.59:950][804]Cmd: DELETE
+[2019.10.30-11.02.59:950][804]Cmd: ACTOR DELETE
+[2019.10.30-11.02.59:964][804]LogEditorActor: Deleted Actor: HttpRequest
+[2019.10.30-11.03.00:003][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.30-11.03.00:003][804]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.10.30-11.03.15:391][551]Cmd: DELETE
+[2019.10.30-11.03.15:391][551]Cmd: ACTOR DELETE
+[2019.10.30-11.03.15:392][551]LogEditorActor: Deleted Actor: HTTP_Request
+[2019.10.30-11.03.15:427][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.30-11.03.15:427][551]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.10.30-11.03.16:809][714]LogEditor: Attempting to add actor of class 'HTTP_Request' to level at -30.00,70.00,30.00
+[2019.10.30-11.03.17:171][756]LogEditor: Attempting to add actor of class 'HTTP_Request' to level at -190.00,30.00,30.00
+[2019.10.30-11.03.20:960][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-11.03.21:019][209]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-11.03.21:035][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.03.21:035][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-11.03.21:035][209]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 11:03:21)
+[2019.10.30-11.03.21:035][209]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-11.03.21:039][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003533s)
+[2019.10.30-11.03.21:039][209]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-11.03.21:040][209]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2019.10.30-11.03.21:040][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004393s)
+[2019.10.30-11.03.21:075][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.30-11.03.21:080][209]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-11.03.21:110][209]LogInit: FAudioDevice initialized.
+[2019.10.30-11.03.21:144][209]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-11.03.21:150][209]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-11.03.21
+[2019.10.30-11.03.21:151][209]LogWorld: Bringing up level for play took: 0.003714
+[2019.10.30-11.03.21:175][209]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.217
+[2019.10.30-11.03.21:175][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 2 (  Trying ::1...)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 4 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 5 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 6 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-11.03.23:313][452]LogHttp: Warning: 00000282FD435800: libcurl info message cache 7 (Closing connection 22)
+[2019.10.30-11.03.24:712][610]LogHttp: Warning: 00000282FD436E80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 0 (Hostname localhost was found in DNS cache)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 3 (  Trying ::1...)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 5 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 6 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 7 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-11.03.24:713][610]LogHttp: Warning: 00000282FD436E80: libcurl info message cache 8 (Closing connection 23)
+[2019.10.30-11.03.26:241][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.03.26:242][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.03.26:275][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-11.03.26:275][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.03.26:315][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.03.26:319][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.10.30-11.03.26:342][789]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.30-11.10.35:805][986]BlueprintLog: New page: Compile DatabaseAppUI
+[2019.10.30-11.10.35:847][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.10.30-11.10.36:707][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DatabaseAppUI" FILE="../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/DatabaseAppUI.uasset" SILENT=true
+[2019.10.30-11.10.36:754][ 84]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/DatabaseAppUIDCCA857C451694B5C1B890BCB1C6C12D.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/DatabaseAppUI.uasset'
+[2019.10.30-11.12.50:421][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.10.30-11.12.50:728][350]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Minimal_Default_Auto2EEFEB15147F08733ECB48CB8EDE21A6F.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.10.30-11.12.50:732][350]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.349
+[2019.10.30-11.12.50:732][350]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.349
+[2019.10.30-11.26.00:022][863]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.10.30-11.26.00:231][863]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Minimal_DefaultCF9C4C524F3EE280D2E84ABF7C5F4A49.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.30-11.26.00:346][863]LogSavePackage: Moving '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Saved/Minimal_Default_BuiltData8717CE954079A4D86783FEA21A43FB55.tmp' to '../../../../../../Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.30-11.26.01:603][  5]Candidate modules for hot reload:
+[2019.10.30-11.26.01:603][  5]  COMP280_HTTP
+[2019.10.30-11.26.01:603][  5]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,222 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-11.26.01:607][  5]Warning: Starting HotReload took  0.0s.
+[2019.10.30-11.26.31:671][580]CompilerResultsLog: New page: Compilation - 30 Oct 2019 11:26:31
+[2019.10.30-11.26.31:671][580]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (game project files are newer)
+[2019.10.30-11.26.31:671][580]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-11.26.31:671][580]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-11.26.31:671][580]CompilerResultsLog: Error: C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Source/COMP280_HTTP/HTTP_Request.h(17)  : Error: Unrecognized type 'FRequest_ScoreDetails' - type must be a UCLASS, USTRUCT or UENUM
+[2019.10.30-11.26.31:671][580]LogMainFrame: MainFrame: Module compiling took 30.071 seconds
+[2019.10.30-11.26.31:671][580]Warning: HotReload failed, recompile failed
+[2019.10.30-11.27.09:588][948]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.27.09:594][948]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.27.10:972][ 87]Candidate modules for hot reload:
+[2019.10.30-11.27.10:972][ 87]  COMP280_HTTP
+[2019.10.30-11.27.10:972][ 87]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,796 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-11.27.10:976][ 87]Warning: Starting HotReload took  0.0s.
+[2019.10.30-11.27.21:706][340]CompilerResultsLog: New page: Compilation - 30 Oct 2019 11:27:21
+[2019.10.30-11.27.21:706][340]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (game project files are newer)
+[2019.10.30-11.27.21:706][340]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-11.27.21:706][340]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-11.27.21:706][340]CompilerResultsLog: Error: C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Source/COMP280_HTTP/HTTP_Request.h(16)  : Error: Unrecognized type 'FRequest_ScoreDetails' - type must be a UCLASS, USTRUCT or UENUM
+[2019.10.30-11.27.21:706][340]LogMainFrame: MainFrame: Module compiling took 10.737 seconds
+[2019.10.30-11.27.21:706][340]Warning: HotReload failed, recompile failed
+[2019.10.30-11.28.10:748][417]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.28.10:776][417]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.28.12:048][548]Candidate modules for hot reload:
+[2019.10.30-11.28.12:048][548]  COMP280_HTTP
+[2019.10.30-11.28.12:048][548]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,2673 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-11.28.12:050][548]Warning: Starting HotReload took  0.0s.
+[2019.10.30-11.28.22:304][734]CompilerResultsLog: New page: Compilation - 30 Oct 2019 11:28:22
+[2019.10.30-11.28.22:304][734]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (game project files are newer)
+[2019.10.30-11.28.22:304][734]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-11.28.22:304][734]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-11.28.22:304][734]CompilerResultsLog: Error: C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Source/COMP280_HTTP/HTTP_Request.h(84)  : Error: Unrecognized type 'FHttpRequestPtr' - type must be a UCLASS, USTRUCT or UENUM
+[2019.10.30-11.28.22:304][734]LogMainFrame: MainFrame: Module compiling took 10.259 seconds
+[2019.10.30-11.28.22:305][734]Warning: HotReload failed, recompile failed
+[2019.10.30-11.31.18:583][734]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.31.18:588][734]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.31.19:345][795]Candidate modules for hot reload:
+[2019.10.30-11.31.19:346][795]  COMP280_HTTP
+[2019.10.30-11.31.19:346][795]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,230 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-11.31.19:349][795]Warning: Starting HotReload took  0.0s.
+[2019.10.30-11.31.29:730][994]CompilerResultsLog: New page: Compilation - 30 Oct 2019 11:31:29
+[2019.10.30-11.31.29:730][994]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (game project files are newer)
+[2019.10.30-11.31.29:730][994]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-11.31.29:731][994]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-11.31.29:731][994]CompilerResultsLog: Error: C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/Source/COMP280_HTTP/HTTP_Request.h(82)  : Error: Unrecognized type 'FHttpRequestPtr' - type must be a UCLASS, USTRUCT or UENUM
+[2019.10.30-11.31.29:731][994]LogMainFrame: MainFrame: Module compiling took 10.387 seconds
+[2019.10.30-11.31.29:731][994]Warning: HotReload failed, recompile failed
+[2019.10.30-11.32.08:576][457]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.32.08:582][457]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.32.09:706][568]Candidate modules for hot reload:
+[2019.10.30-11.32.09:706][568]  COMP280_HTTP
+[2019.10.30-11.32.09:706][568]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,2245 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-11.32.09:710][568]Warning: Starting HotReload took  0.0s.
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: New page: Compilation - 30 Oct 2019 11:32:29
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (game project files are newer)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-11.32.29:622][915]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Reflection code generated for COMP280_HTTPEditor in 8.3424842 seconds
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Error: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Source\COMP280_HTTP\HttpRequest.cpp(1) : error: Expected HttpRequest.h to be first header included.
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: License is invalid:
+[2019.10.30-11.32.29:622][915]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.10.30-11.32.29:622][915]CompilerResultsLog:     This build will run in standalone mode.
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: 
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: HTTP_Request.cpp (0:03.26 at +0:00)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: COMP280_HTTP.init.gen.cpp (0:00.89 at +0:03)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: HTTP_Request.gen.cpp (0:02.21 at +0:04)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: UE4Editor-COMP280_HTTP-2245.dll (0:01.12 at +0:06)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-2245.suppressed.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-2245.suppressed.exp
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::GetRequest(class FString)" (?GetRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnGetScoresButtonPress(void)" (?OnGetScoresButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::PostRequest(class FString,class FString)" (?PostRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@0@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::Send(class TSharedRef<class IHttpRequest,0> &)" (?Send@AHTTP_Request@@AEAAXAEAV?$TSharedRef@VIHttpRequest@@$0A@@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: bool __cdecl AHTTP_Request::ResponseIsValid(class TSharedPtr<class IHttpResponse,1>,bool)" (?ResponseIsValid@AHTTP_Request@@AEAA_NV?$TSharedPtr@VIHttpResponse@@$00@@_N@Z) referenced in function "public: void __cdecl AHTTP_Request::GetScores_Response(class TSharedPtr<class IHttpRequest,0>,class TSharedPtr<class IHttpResponse,1>,bool)" (?GetScores_Response@AHTTP_Request@@QEAAXV?$TSharedPtr@VIHttpRequest@@$0A@@@V?$TSharedPtr@VIHttpResponse@@$00@@_N@Z)
+[2019.10.30-11.32.29:622][915]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::GetJsonStringFromStruct<struct FRequest_ScoreDetails>(struct FRequest_ScoreDetails,class FString &)" (??$GetJsonStringFromStruct@UFRequest_ScoreDetails@@@AHTTP_Request@@AEAAXUFRequest_ScoreDetails@@AEAVFString@@@Z) referenced in function "public: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@QEAAXXZ)
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: Error: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Binaries\Win64\UE4Editor-COMP280_HTTP-2245.dll : fatal error LNK1120: 5 unresolved externals
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: 
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: Error executing C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64\link.exe (tool returned code: 1120)
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: UE4Editor-COMP280_HTTP-2245.lib (0:00.46 at +0:07)
+[2019.10.30-11.32.29:623][915]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-2245.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-2245.exp
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: 
+[2019.10.30-11.32.29:623][915]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: 
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: 1 build system warning(s):
+[2019.10.30-11.32.29:623][915]CompilerResultsLog:    - License is invalid
+[2019.10.30-11.32.29:623][915]CompilerResultsLog: 
+[2019.10.30-11.32.29:623][915]LogMainFrame: MainFrame: Module compiling took 19.919 seconds
+[2019.10.30-11.32.29:623][915]Warning: HotReload failed, recompile failed
+[2019.10.30-11.36.25:576][688]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.36.25:583][688]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-11.36.47:434][278]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-11.36.47:454][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.47:454][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-11.36.47:454][278]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 11:36:47)
+[2019.10.30-11.36.47:454][278]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-11.36.47:460][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005400s)
+[2019.10.30-11.36.47:461][278]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-11.36.47:461][278]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2019.10.30-11.36.47:461][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006894s)
+[2019.10.30-11.36.47:501][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.10.30-11.36.47:507][278]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-11.36.47:538][278]LogInit: FAudioDevice initialized.
+[2019.10.30-11.36.47:573][278]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-11.36.47:575][278]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-11.36.47
+[2019.10.30-11.36.47:575][278]LogWorld: Bringing up level for play took: 0.001078
+[2019.10.30-11.36.47:589][278]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.192
+[2019.10.30-11.36.47:590][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.50:644][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.50:645][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.36.50:672][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-11.36.50:673][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.50:715][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.36.50:722][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.10.30-11.36.50:750][640]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.30-11.36.51:643][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-11.36.51:710][753]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-11.36.51:725][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.51:725][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-11.36.51:725][753]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 11:36:51)
+[2019.10.30-11.36.51:725][753]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-11.36.51:729][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003913s)
+[2019.10.30-11.36.51:730][753]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-11.36.51:730][753]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.10.30-11.36.51:730][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004957s)
+[2019.10.30-11.36.51:767][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.30-11.36.51:771][753]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-11.36.51:800][753]LogInit: FAudioDevice initialized.
+[2019.10.30-11.36.51:826][753]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-11.36.51:827][753]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-11.36.51
+[2019.10.30-11.36.51:827][753]LogWorld: Bringing up level for play took: 0.000759
+[2019.10.30-11.36.51:841][753]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.443
+[2019.10.30-11.36.51:841][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 0 (Connection 36 seems to be dead!)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 1 (Closing connection 36)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 3 (  Trying 127.0.0.1...)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 5 (  Trying ::1...)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 6 (TCP_NODELAY set)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 7 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 8 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 9 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-11.36.54:300][ 44]LogHttp: Warning: 0000028284AD8680: libcurl info message cache 10 (Closing connection 37)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 0 (Hostname localhost was found in DNS cache)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 3 (  Trying ::1...)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 5 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 6 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 7 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-11.36.56:457][302]LogHttp: Warning: 0000028284AD9440: libcurl info message cache 8 (Closing connection 38)
+[2019.10.30-11.36.57:021][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.57:022][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.36.57:054][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-11.36.57:054][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.36.57:098][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.36.57:105][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.10.30-11.36.57:127][370]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.30-11.37.08:739][750]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" -game -rocket -progress
+[2019.10.30-11.37.09:146][750]Discovering modules, targets and source code for project...
+[2019.10.30-11.37.11:467][750]Binding IntelliSense data...
+[2019.10.30-11.37.13:287][750]Binding IntelliSense data... 100%
+[2019.10.30-11.37.13:287][750]Writing project files...
+[2019.10.30-11.37.16:218][750]Writing project files... 100%
+[2019.10.30-11.38.20:170][129]LogAssetEditorManager: Opening Asset editor for Class /Script/COMP280_HTTP.HTTP_Request
+[2019.10.30-11.38.41:749][138]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.10.30-11.40.05:432][392]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-11.40.05:452][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.40.05:452][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-11.40.05:452][392]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 11:40:05)
+[2019.10.30-11.40.05:452][392]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-11.40.05:457][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003947s)
+[2019.10.30-11.40.05:457][392]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-11.40.05:458][392]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.10.30-11.40.05:458][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004881s)
+[2019.10.30-11.40.05:495][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.30-11.40.05:499][392]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-11.40.05:533][392]LogInit: FAudioDevice initialized.
+[2019.10.30-11.40.05:564][392]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-11.40.05:566][392]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-11.40.05
+[2019.10.30-11.40.05:566][392]LogWorld: Bringing up level for play took: 0.001209
+[2019.10.30-11.40.05:581][392]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.184
+[2019.10.30-11.40.05:581][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 2 (  Trying ::1...)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 4 (connect to 127.0.0.1 port 8000 failed: Connection refused)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 5 (connect to ::1 port 8000 failed: Connection refused)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 6 (Failed to connect to localhost port 8000: Connection refused)
+[2019.10.30-11.40.08:149][661]LogHttp: Warning: 0000028284AD96C0: libcurl info message cache 7 (Closing connection 41)
+[2019.10.30-11.40.08:380][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.40.08:380][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.40.08:407][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-11.40.08:407][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-11.40.08:452][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-11.40.08:458][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.30-11.40.08:484][690]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.30-11.44.56:684][865]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" -game -rocket -progress
+[2019.10.30-11.44.57:092][865]Discovering modules, targets and source code for project...
+[2019.10.30-11.45.00:223][865]Binding IntelliSense data...
+[2019.10.30-11.45.02:046][865]Binding IntelliSense data... 100%
+[2019.10.30-11.45.02:046][865]Writing project files...
+[2019.10.30-11.45.04:572][865]Writing project files... 100%
+[2019.10.30-11.46.14:844][100]Candidate modules for hot reload:
+[2019.10.30-11.46.14:844][100]  COMP280_HTTP
+[2019.10.30-11.46.14:845][100]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,7703 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-11.46.14:848][100]Warning: Starting HotReload took  1.2s.
+[2019.10.30-11.46.51:571][930]CompilerResultsLog: New page: Compilation - 30 Oct 2019 11:46:51
+[2019.10.30-11.46.51:571][930]CompilerResultsLog: Creating makefile for COMP280_HTTPEditor (no existing makefile)
+[2019.10.30-11.46.51:571][930]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-11.46.51:571][930]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-11.46.51:571][930]CompilerResultsLog: Reflection code generated for COMP280_HTTPEditor in 29.1139368 seconds
+[2019.10.30-11.46.51:571][930]CompilerResultsLog: Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.30-11.46.51:571][930]CompilerResultsLog: Distributing 3 actions to XGE
+[2019.10.30-11.46.51:571][930]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: License is invalid:
+[2019.10.30-11.46.51:572][930]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.10.30-11.46.51:572][930]CompilerResultsLog:     This build will run in standalone mode.
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: 
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: UE4Editor-COMP280_HTTP-7703.dll (0:01.43 at +0:00)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7703.suppressed.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7703.suppressed.exp
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::GetRequest(class FString)" (?GetRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@@Z) referenced in function "private: void __cdecl AHTTP_Request::OnGetScoresButtonPress(void)" (?OnGetScoresButtonPress@AHTTP_Request@@AEAAXXZ)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: class TSharedRef<class IHttpRequest,0> __cdecl AHTTP_Request::PostRequest(class FString,class FString)" (?PostRequest@AHTTP_Request@@AEAA?AV?$TSharedRef@VIHttpRequest@@$0A@@@VFString@@0@Z) referenced in function "private: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@AEAAXXZ)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::Send(class TSharedRef<class IHttpRequest,0> &)" (?Send@AHTTP_Request@@AEAAXAEAV?$TSharedRef@VIHttpRequest@@$0A@@@@Z) referenced in function "private: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@AEAAXXZ)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: bool __cdecl AHTTP_Request::ResponseIsValid(class TSharedPtr<class IHttpResponse,1>,bool)" (?ResponseIsValid@AHTTP_Request@@AEAA_NV?$TSharedPtr@VIHttpResponse@@$00@@_N@Z) referenced in function "public: void __cdecl AHTTP_Request::GetScores_Response(class TSharedPtr<class IHttpRequest,0>,class TSharedPtr<class IHttpResponse,1>,bool)" (?GetScores_Response@AHTTP_Request@@QEAAXV?$TSharedPtr@VIHttpRequest@@$0A@@@V?$TSharedPtr@VIHttpResponse@@$00@@_N@Z)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: Error: HTTP_Request.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AHTTP_Request::GetJsonStringFromStruct<struct FRequest_ScoreDetails>(struct FRequest_ScoreDetails,class FString &)" (??$GetJsonStringFromStruct@UFRequest_ScoreDetails@@@AHTTP_Request@@AEAAXUFRequest_ScoreDetails@@AEAVFString@@@Z) referenced in function "private: void __cdecl AHTTP_Request::OnAddButtonPress(void)" (?OnAddButtonPress@AHTTP_Request@@AEAAXXZ)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: Error: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Binaries\Win64\UE4Editor-COMP280_HTTP-7703.dll : fatal error LNK1120: 5 unresolved externals
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: 
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: Error executing C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64\link.exe (tool returned code: 1120)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: UE4Editor-COMP280_HTTP-7703.lib (0:01.01 at +0:01)
+[2019.10.30-11.46.51:572][930]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7703.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7703.exp
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: 
+[2019.10.30-11.46.51:572][930]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: 
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: 1 build system warning(s):
+[2019.10.30-11.46.51:572][930]CompilerResultsLog:    - License is invalid
+[2019.10.30-11.46.51:572][930]CompilerResultsLog: 
+[2019.10.30-11.46.51:572][930]LogMainFrame: MainFrame: Module compiling took 36.731 seconds
+[2019.10.30-11.46.51:572][930]Warning: HotReload failed, recompile failed
+[2019.10.30-11.51.17:419][734]Candidate modules for hot reload:
+[2019.10.30-11.51.17:419][734]  COMP280_HTTP
+[2019.10.30-11.51.17:419][734]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,5818 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-11.51.17:423][734]Warning: Starting HotReload took  1.7s.
+[2019.10.30-11.51.54:095][853]CompilerResultsLog: New page: Compilation - 30 Oct 2019 11:51:54
+[2019.10.30-11.51.54:095][853]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-11.51.54:096][853]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: Reflection code generated for COMP280_HTTPEditor in 27.9838947 seconds
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: Distributing 5 actions to XGE
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: License is invalid:
+[2019.10.30-11.51.54:096][853]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.10.30-11.51.54:096][853]CompilerResultsLog:     This build will run in standalone mode.
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: 
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: HTTP_Request.cpp (0:01.75 at +0:00)
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: Error: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193) : error C2259: 'IHttpRequest': cannot instantiate abstract class
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: due to following members:
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FString IHttpBase::GetURL(void) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h(19): note: see declaration of 'IHttpBase::GetURL'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FString IHttpBase::GetURLParameter(const FString &) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h(29): note: see declaration of 'IHttpBase::GetURLParameter'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FString IHttpBase::GetHeader(const FString &) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h(36): note: see declaration of 'IHttpBase::GetHeader'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'TArray<FString,FDefaultAllocator> IHttpBase::GetAllHeaders(void) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h(43): note: see declaration of 'IHttpBase::GetAllHeaders'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FString IHttpBase::GetContentType(void) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h(50): note: see declaration of 'IHttpBase::GetContentType'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'int32 IHttpBase::GetContentLength(void) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h(58): note: see declaration of 'IHttpBase::GetContentLength'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'const TArray<uint8,FDefaultAllocator> &IHttpBase::GetContent(void) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h(65): note: see declaration of 'IHttpBase::GetContent'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FString IHttpRequest::GetVerb(void) const': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(108): note: see declaration of 'IHttpRequest::GetVerb'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::SetVerb(const FString &)': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(118): note: see declaration of 'IHttpRequest::SetVerb'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::SetURL(const FString &)': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(127): note: see declaration of 'IHttpRequest::SetURL'
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::SetContent(const TArray<uint8,FDefaultAllocator> &)': is abstract
+[2019.10.30-11.51.54:096][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(135): note: see declaration of 'IHttpRequest::SetContent'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::SetContentAsString(const FString &)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(142): note: see declaration of 'IHttpRequest::SetContentAsString'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'bool IHttpRequest::SetContentAsStreamedFile(const FString &)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(150): note: see declaration of 'IHttpRequest::SetContentAsStreamedFile'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'bool IHttpRequest::SetContentFromStream(TSharedRef<FArchive,ESPMode::ThreadSafe>)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(158): note: see declaration of 'IHttpRequest::SetContentFromStream'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::SetHeader(const FString &,const FString &)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(171): note: see declaration of 'IHttpRequest::SetHeader'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::AppendToHeader(const FString &,const FString &)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(184): note: see declaration of 'IHttpRequest::AppendToHeader'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'bool IHttpRequest::ProcessRequest(void)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(193): note: see declaration of 'IHttpRequest::ProcessRequest'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FHttpRequestCompleteDelegate &IHttpRequest::OnProcessRequestComplete(void)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(198): note: see declaration of 'IHttpRequest::OnProcessRequestComplete'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FHttpRequestProgressDelegate &IHttpRequest::OnRequestProgress(void)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(203): note: see declaration of 'IHttpRequest::OnRequestProgress'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'FHttpRequestHeaderReceivedDelegate &IHttpRequest::OnHeaderReceived(void)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(208): note: see declaration of 'IHttpRequest::OnHeaderReceived'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::CancelRequest(void)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(213): note: see declaration of 'IHttpRequest::CancelRequest'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'EHttpRequestStatus::Type IHttpRequest::GetStatus(void) const': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(220): note: see declaration of 'IHttpRequest::GetStatus'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'const FHttpResponsePtr IHttpRequest::GetResponse(void) const': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(227): note: see declaration of 'IHttpRequest::GetResponse'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'void IHttpRequest::Tick(float)': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(234): note: see declaration of 'IHttpRequest::Tick'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: 'float IHttpRequest::GetElapsedTime(void) const': is abstract
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h(241): note: see declaration of 'IHttpRequest::GetElapsedTime'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h(193): note: while compiling class template member function 'TSharedRef<ObjectType,0>::TSharedRef(void)'
+[2019.10.30-11.51.54:097][853]CompilerResultsLog:         with
+[2019.10.30-11.51.54:097][853]CompilerResultsLog:         [
+[2019.10.30-11.51.54:097][853]CompilerResultsLog:             ObjectType=IHttpRequest
+[2019.10.30-11.51.54:097][853]CompilerResultsLog:         ]
+[2019.10.30-11.51.54:097][853]CompilerResultsLog: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Source\COMP280_HTTP\HTTP_Request.cpp(104): note: see reference to function template instantiation 'TSharedRef<ObjectType,0>::TSharedRef(void)' being compiled
+[2019.10.30-11.51.54:097][853]CompilerResultsLog:         with
+[2019.10.30-11.51.54:097][853]CompilerResultsLog:         [
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:             ObjectType=IHttpRequest
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:         ]
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Source\COMP280_HTTP\HTTP_Request.cpp(41): note: see reference to class template instantiation 'TSharedRef<ObjectType,0>' being compiled
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:         with
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:         [
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:             ObjectType=IHttpRequest
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:         ]
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: 
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.22\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: HTTP_Request.gen.cpp (0:02.45 at +0:01)
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: 
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: 
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: 1 build system warning(s):
+[2019.10.30-11.51.54:098][853]CompilerResultsLog:    - License is invalid
+[2019.10.30-11.51.54:098][853]CompilerResultsLog: 
+[2019.10.30-11.51.54:098][853]LogMainFrame: MainFrame: Module compiling took 36.684 seconds
+[2019.10.30-11.51.54:098][853]Warning: HotReload failed, recompile failed
+[2019.10.30-12.19.24:410][685]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-12.19.24:444][685]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-12.19.25:854][840]Candidate modules for hot reload:
+[2019.10.30-12.19.25:854][840]  COMP280_HTTP
+[2019.10.30-12.19.25:854][840]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COMP280_HTTP,7961 Win64 Development -TargetType=Editor -Project="C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject" "C:/Users/mo214885/Documents/Unreal Projects/COMP280_HTTP/COMP280_HTTP.uproject"  -IgnoreJunk]
+[2019.10.30-12.19.25:859][840]Warning: Starting HotReload took  0.0s.
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: New page: Compilation - 30 Oct 2019 12:20:02
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: Parsing headers for COMP280_HTTPEditor
+[2019.10.30-12.20.02:115][278]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\COMP280_HTTP.uproject" "C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\COMP280_HTTPEditor\Development\COMP280_HTTPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: Reflection code generated for COMP280_HTTPEditor in 24.4802418 seconds
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: License is invalid:
+[2019.10.30-12.20.02:115][278]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.10.30-12.20.02:115][278]CompilerResultsLog:     This build will run in standalone mode.
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: 
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: HTTP_Request.cpp (0:02.25 at +0:00)
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: COMP280_HTTP.init.gen.cpp (0:00.73 at +0:02)
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: HTTP_Request.gen.cpp (0:02.01 at +0:03)
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: UE4Editor-COMP280_HTTP-7961.dll (0:01.78 at +0:05)
+[2019.10.30-12.20.02:115][278]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7961.suppressed.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7961.suppressed.exp
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: UE4Editor-COMP280_HTTP-7961.lib (0:00.60 at +0:06)
+[2019.10.30-12.20.02:115][278]CompilerResultsLog:    Creating library C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7961.lib and object C:\Users\mo214885\Documents\Unreal Projects\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\UE4Editor-COMP280_HTTP-7961.exp
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: COMP280_HTTPEditor.target (0:00.51 at +0:07)
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.10.30-12.20.02:115][278]CompilerResultsLog: 
+[2019.10.30-12.20.02:115][278]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.10.30-12.20.02:116][278]CompilerResultsLog: 
+[2019.10.30-12.20.02:116][278]CompilerResultsLog: 1 build system warning(s):
+[2019.10.30-12.20.02:116][278]CompilerResultsLog:    - License is invalid
+[2019.10.30-12.20.02:116][278]CompilerResultsLog: 
+[2019.10.30-12.20.02:116][278]CompilerResultsLog: Total time in XGE executor: 8.26 seconds
+[2019.10.30-12.20.02:116][278]CompilerResultsLog: Total execution time: 35.90 seconds
+[2019.10.30-12.20.02:116][278]LogMainFrame: MainFrame: Module compiling took 36.264 seconds
+[2019.10.30-12.20.02:245][278]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2019.10.30-12.20.02:254][278]LogBlueprintActionDatabase: Requesting refresh due to module change: COMP280_HTTP (unloaded)
+[2019.10.30-12.20.02:294][278]LogClass: Could not find existing class HTTP_Request in package /Script/COMP280_HTTP for HotReload, assuming new class
+[2019.10.30-12.20.02:294][278]LogClass: Function OnAddButtonPress is new.
+[2019.10.30-12.20.02:294][278]LogClass: Function OnGetScoresButtonPress is new.
+[2019.10.30-12.20.02:297][278]LogClass: Response_ScoreDetails HotReload.
+[2019.10.30-12.20.02:297][278]LogClass: Request_ScoreDetails HotReload.
+[2019.10.30-12.20.02:309][278]LogHotReload: Re-instancing HTTP_Request after hot-reload.
+[2019.10.30-12.20.02:520][278]LogBlueprintActionDatabase: Requesting refresh due to module change: COMP280_HTTP (loaded)
+[2019.10.30-12.20.02:521][278]LogContentBrowser: Native class hierarchy updated for 'COMP280_HTTP' in 0.0015 seconds. Added 4 classes and 2 folders.
+[2019.10.30-12.20.02:527][278]Display: HotReload successful (1 functions remapped  2 scriptstructs remapped)
+[2019.10.30-12.20.02:691][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.10.30-12.20.02:692][278]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.10.30-12.20.02:735][278]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 2737 classes and 663 folders.
+[2019.10.30-12.20.02:759][278]Display: HotReload took 36.9s.
+[2019.10.30-12.20.54:516][438]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-12.20.54:546][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.30-12.20.54:546][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-12.20.54:547][438]PIE: New page: PIE session: Minimal_Default (30 Oct 2019 12:20:54)
+[2019.10.30-12.20.54:547][438]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.30-12.20.54:557][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009902s)
+[2019.10.30-12.20.54:560][438]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.30-12.20.54:560][438]LogPlayLevel: PIE: World Init took: (0.002809s)
+[2019.10.30-12.20.54:561][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013538s)
+[2019.10.30-12.20.54:737][438]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2019.10.30-12.20.54:743][438]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.30-12.20.54:775][438]LogInit: FAudioDevice initialized.
+[2019.10.30-12.20.54:815][438]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-12.20.54:818][438]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.30-12.20.54
+[2019.10.30-12.20.54:818][438]LogWorld: Bringing up level for play took: 0.001114
+[2019.10.30-12.20.54:833][438]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.578
+[2019.10.30-12.20.54:834][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'

@@ -1,0 +1,5 @@
+C:\Users\mo214885\Documents\COMP280_HTTP\COMP280_HTTP\Intermediate\Build\Win64\UE4Editor\Development\COMP280_HTTP\Definitions.COMP280_HTTP.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\mo214885\Documents\COMP280_HTTP\COMP280_HTTP\Source\COMP280_HTTP/Sender.h
+c:\users\mo214885\documents\comp280_http\comp280_http\intermediate\build\win64\ue4editor\inc\comp280_http\Sender.generated.h

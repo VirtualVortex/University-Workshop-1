@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\COMP280_HTTP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1CB64EFC-D83B-4CEE-838D-D7F305163FC4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\COMP280_HTTP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\COMP280_HTTPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A66833C2-41E3-482B-9607-F51F3E9499E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\COMP280_HTTP">
+      <UniqueIdentifier>{CE330D41-1B86-495F-B84C-BDECF99FFBFD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\COMP280_HTTP\COMP280_HTTP.Build.cs">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\COMP280_HTTP\COMP280_HTTP.cpp">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\COMP280_HTTP\COMP280_HTTP.h">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\COMP280_HTTP\COMP280_HTTPGameModeBase.cpp">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\COMP280_HTTP\COMP280_HTTPGameModeBase.h">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\COMP280_HTTP\HTTP_Request.cpp">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\COMP280_HTTP\HTTP_Request.h">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\COMP280_HTTP\MyHTTPRequest.cpp">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\COMP280_HTTP\MyHTTPRequest.h">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\COMP280_HTTP\MyTestActor.cpp">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\COMP280_HTTP\MyTestActor.h">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\COMP280_HTTP\Sender.h">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\COMP280_HTTP\Sender.cpp">
+      <Filter>Source\COMP280_HTTP</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
